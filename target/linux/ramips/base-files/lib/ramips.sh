@@ -172,6 +172,9 @@ ramips_board_detect() {
 	*"FireWRT")
 		name="firewrt"
 		;;
+	*"Flo I2CD")
+		name="i2cd"
+		;;
 	*"Fonera 2.0N")
 		name="fonera20n"
 		;;
